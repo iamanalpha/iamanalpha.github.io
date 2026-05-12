@@ -14,15 +14,17 @@ This portfolio is designed to demonstrate skills in:
 
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
-### Project Title One
-GreenTech Manufacturing faced recurring production downtime caused by machine failures, material shortages, inefficient planning, and manual scheduling processes with limited data visibility. These challenges resulted in operational inefficiencies, customer delays, resource wastage, and an estimated annual loss of $1.5 million, highlighting the need for optimized production scheduling and proactive downtime management.
+### Evaluating Production Bottlenecks Through Downtime Analysis
+GreenTech Manufacturing faced recurring production downtime caused by machine failures, material shortages, inefficient planning, and manual scheduling processes with limited data visibility. These challenges resulted in operational inefficiencies, customer delays, resource wastage, and an estimated annual loss of $1.5 million, highlighting the need for optimized production scheduling and proactive downtime management. Identified four root causes (equipment breakdown, raw material shortage, cleaning/sanitation, scheduling delays) and built interactive dashboards for real-time monitoring. I put up recommendations to improve supply chain coordination and cleaning procedures to prevent delays, implement monthly reviews and early warning systems for proactive action and provide targeted training and review workload allocation for lead operators. Tools used; SQL and Power BI.
 
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+### Operational Efficiency and Patient Outcome Analysis at MedioPharm Medical Center
+MedioPharm Medical Center is facing increasing operational strain due to rising patient volumes and underutilized healthcare data across admissions, doctor activity, and patient monitoring systems. Limited visibility into patient risk, readmission trends, response times, and departmental workloads hinders timely decision-making and reduces overall care efficiency. Extracted and analyzed 8,000+ patient encounters from 2024 EHR data, categorizing visits by acuity level to identify workflow bottlenecks. Found routine visits consumed 35% of physician time while critical cases (chest pain, shortness of breath) required faster response. Put up recommendations to redistribute workload, incease doctor headcount and prioritize follow ups on 424 abnormal vital cases. Tools used, Power Query and Power BI.
 
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+
+### Optimizing Employee Perfomance and Employee Benefit Programs through Data-Driven Insights
+Tech Innovators Inc.’s HR department faced two interconnected challenges that reduced efficiency and strategic effectiveness. The performance review system lacked real-time visibility, which delayed identifying issues and recognizing top performers, leading to reactive interventions. At the same time, limited insight into benefits usage resulted in poorly optimized programs and unnecessary costs. These issues caused operational inefficiencies, increased expenses, and contributed to employee dissatisfaction and higher turnover. Analyzed HR data across 200+ employees to assess workforce performance, engagement, and benefits utilization patterns. Identified critical inefficiencies: average performance rating of 3.2, low PTO utilization, engagement score of 2.971, and satisfaction score of 3.072, indicating disconnection from organizational culture and lack of workplace flexibility. I recommended that they implement real time performance dashboards, expand and mandate training programs across underperfoming departments and redesign the paid time off benefit.
+
 
 
 ## 🛠️ Skills
