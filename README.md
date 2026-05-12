@@ -1,6 +1,6 @@
-# [Your Name] - Data Analysis Portfolio
+# Wandile Khuphe - Data Analytics Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+Welcome! This repository contains the complete template for a professional, one-page data analytics portfolio website, hosted for free on GitHub Pages.
 
 ## About This Portfolio Template
 
@@ -15,7 +15,8 @@ This portfolio is designed to demonstrate skills in:
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
 ### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+GreenTech Manufacturing faced recurring production downtime caused by machine failures, material shortages, inefficient planning, and manual scheduling processes with limited data visibility. These challenges resulted in operational inefficiencies, customer delays, resource wastage, and an estimated annual loss of $1.5 million, highlighting the need for optimized production scheduling and proactive downtime management.
+
 
 ### Project Title Two
 *A brief description of your project, the tools used, and the key insights derived.*
